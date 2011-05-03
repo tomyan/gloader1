@@ -1,5 +1,9 @@
 Gloader Changelog
 
+0.1.3
+
+* Allow map url to be pre-configured.
+
 0.1.2
 
 * Updated domReady code to fix a bug in some browsers (e.g. PS3 NetFront)
